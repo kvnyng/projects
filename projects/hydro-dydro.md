@@ -20,6 +20,8 @@ To the surprise of many of my classmates, Newton South High School has a greenho
 
 Regardless, I removed the garbage, moved in tables, and brought in some tools, transforming the neglected space into a gardening hub.
 
+![Tables and Saws](../media/hydro-dydro/tables-and-saws.JPG)
+
 ### Fixing Climate Control
 Originally, the greenhouse could climate control its interior by opening and closing four windows. However, the actuation of these motors have gone out of repair. Some windows were permanently open, a no go for any plant who wants to grow in a New England winter. Unable to rely on the school to fix the issue (teachers before me have tried and failed), I moved towards a cheaper, jankier option: I detached the broken actuators from their windows.
 
@@ -28,10 +30,29 @@ Originally, the greenhouse could climate control its interior by opening and clo
 
 Now, instead of New England's surprise winter gusts during late March, the greenhouse hits a cozy 70°.
 
-## Nutrient Film Technique
+## Nutrient Film Technique (NFT)
 
+![PVC on rack](../media/hydro-dydro/pvc-on-rack.JPG)
+REPLACE WITH FINAL PROJECT IMAGE LATER
+
+### Background
+One type of hydroponic is the nutrient film technique. NFTs consist of nutrient rich water circulating through multiple pipes. Plants then sit just above water level and have their roots soak the flowing stream. They are great for vertical installations, and are the poster child of most hydroponic marketing.
+
+![NFT Diagram](../media/hydro-dydro/nft-diagram.jpg)[^nft-diagram]
+Source: [CANNA](https://www.canna.com.au/hydroponics_nutrient_film_technique_nft)
+
+### Build
+I was sitting in the greenhouse one day, when I stumbled upon a gardening rack with three levels. Looking at the large, but underutilized structure, I had an epiphany: "what if I built one of those PVC hydroponic do-das."
+
+With that, I bought some PVC from home depot and started building.
+
+![PVC on rack](../media/hydro-dydro/pvc-on-rack.JPG)
+
+## Deep Water Culture (DWC)
+
+WORK IN PROGRESS
 
 ## Budget
-This project cost about $500. Fortunately, it was funded through a grant from the Newton Conservators.
+This project cost about $500. Fortunately, it was funded through a grant from the Newton Conservators. Thanks Will!
 
 ![Grant award](../media/hydro-dydro/grant-award.png)
