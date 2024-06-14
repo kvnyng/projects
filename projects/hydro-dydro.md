@@ -33,12 +33,13 @@ Now, instead of New England's surprise winter gusts during late March, the green
 ## Nutrient Film Technique (NFT)
 
 ![PVC on rack](../media/hydro-dydro/pvc-on-rack.JPG)
-REPLACE WITH FINAL PROJECT IMAGE LATER
+*REPLACE WITH FINAL PROJECT IMAGE LATER*
 
 ### Background
 One type of hydroponic is the nutrient film technique. NFTs consist of nutrient rich water circulating through multiple pipes. Plants then sit just above water level and have their roots soak the flowing stream. They are great for vertical installations, and are the poster child of most hydroponic marketing.
 
-![NFT Diagram](../media/hydro-dydro/nft-diagram.jpg)[^nft-diagram]
+![NFT Diagram](../media/hydro-dydro/nft-diagram.jpg)
+
 Source: [CANNA](https://www.canna.com.au/hydroponics_nutrient_film_technique_nft)
 
 ### Build
